@@ -8,7 +8,7 @@ body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
-.hero-spacer {
+.home .hero-spacer {
     margin-top: 50px;
 
     background: url(../images/junk.jpg);
@@ -17,8 +17,70 @@ body {
 }
 
 
-.hero-feature {
+.home .hero-feature {
     margin-bottom: 30px;
+}
+
+
+
+.shop .slide-image {
+    width: 100%;
+}
+
+.shop .carousel-holder {
+    margin-bottom: 30px;
+}
+
+.shop .carousel-control,
+.shop .item {
+    border-radius: 4px;
+}
+
+.shop .caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.shop .caption h4 {
+    white-space: nowrap;
+}
+
+.shop .thumbnail img {
+    width: 100%;
+}
+
+.shop .ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.shop .thumbnail {
+    padding: 0;
+}
+
+.shop .thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+.item .thumbnail img {
+    width: 100%;
+}
+
+.item .ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.item .thumbnail {
+    padding: 0;
+}
+
+.item .thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
 }
 
 footer {

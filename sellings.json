@@ -1,7 +1,17 @@
-[{
+[
+{
 	"title": "Test 1",
 	"date": "2015-12-12",
-	"image": "data...",
-	"description": "",
+	"image": "http://placehold.it/800x500",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 	"meta": {}
-}]
+},
+
+{
+	"title": "Test 2",
+	"date": "2015-12-13",
+	"image": "http://placehold.it/800x500",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+	"meta": {}
+}
+]
