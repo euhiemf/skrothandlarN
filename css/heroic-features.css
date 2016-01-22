@@ -10,8 +10,8 @@ body {
 
 .hero-spacer {
     margin-top: 50px;
-    
-    background: url(images/junk.jpg);
+
+    background: url(../images/junk.jpg);
     color: white;
 
 }
